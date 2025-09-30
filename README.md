@@ -1,2 +1,5 @@
 # Ciber-Infraestructura_2025B
-Maestría en Cómputo Aplicado &lt;br> Ciber-Infraestructura 2025B &lt;br> Ian Daniel López Ríos &lt;br> 220976012
+Maestría en Cómputo Aplicado <br> 
+Ciber-Infraestructura 2025B <br> 
+Ian Daniel López Ríos <br> 
+220976012
